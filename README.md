@@ -36,8 +36,15 @@
 |:---:|:---:|
 | ![GitHub Streak](https://streak-stats.demolab.com?user=alikamal&theme=radical&border_radius=20&date_format=j%20M%5B%20Y%5D) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alikamal&theme=radical&no-frame=true&row=2&column=4) |
 
+
 </div>
 
+
+
+<div align="center">
+<img src="https://github-readme-stats.zcy.dev/api?username=alikamal234-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alikamal234-gif&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikamal234-gif&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 ###
 
 <h2 align="center">🚀 What I'm Doing</h2>
